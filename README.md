@@ -1,8 +1,7 @@
-![AI Driven Portfolio Stress Testing](portfolio%20stress.png)
-
 # AI-Driven Portfolio Stress Testing Platform
-
 Aplikasi berbasis web untuk melakukan stress testing dan analisis risiko portofolio saham menggunakan simulasi Monte Carlo dan model time series.
+
+![AI Driven Portfolio Stress Testing](portfolio%20stress.png)
 
 ## Fitur
 
