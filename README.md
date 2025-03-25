@@ -3,6 +3,21 @@ Aplikasi berbasis web untuk melakukan stress testing dan analisis risiko portofo
 
 ![AI Driven Portfolio Stress Testing](portfolio%20stress.png)
 
+
+## Project Structure
+
+```
+├── models/                 # Core model definitions
+│   └── economic_scenarios.py
+├── utils/                  # Core utility functions
+│   ├── data_processor.py
+│   ├── monte_carlo.py
+│   ├── risk_metrics.py
+│   ├── time_series.py
+│   └── visualization.py
+├── README.md              # Project documentation
+└── app.py                 # Python main function
+```
 ## Fitur
 
 - Simulasi Monte Carlo untuk stress testing portofolio
